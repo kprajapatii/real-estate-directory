@@ -3,9 +3,9 @@ Contributors: stiofansisland, paoltaia, ayecode
 Donate link: https://wpgeodirectory.com
 Tags: geodirectory, property, real estate, rental, for sale
 Requires at least: 6.0
-Tested up to: 6.9
-Requires PHP: 7.0
-Stable tag: 2.0.10
+Tested up to: 7.0
+Requires PHP: 7.2
+Stable tag: 2.0.11
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -45,6 +45,9 @@ The manual installation method involves:
 Automatic updates should work seamlessly. To avoid unforeseen problems, we always suggest backing up your website before performing any automated update.
 
 == Changelog =
+
+= 2.0.11 - 2026-04-09 =
+* WordPress 7.0 compatibility check - COMPATIBILITY
 
 = 2.0.10 - 2025-12-25 =
 * Option added to show French DPE energy & climate class - ADDED

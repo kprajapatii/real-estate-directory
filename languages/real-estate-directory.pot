@@ -1,9 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Real Estate Directory 2.0.10\n"
+"Project-Id-Version: Real Estate Directory 2.0.11\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-25 19:53+0530\n"
+"POT-Creation-Date: 2026-04-09 13:05+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: AyeCode Ltd <contact@ayecode.io>\n"
@@ -119,24 +119,24 @@ msgid ""
 "`energy_rating` field"
 msgstr ""
 
-#: includes/blocks/class-geodir-widget-energy-rating.php:201
+#: includes/blocks/class-geodir-widget-energy-rating.php:235
 #, php-format
 msgctxt "EPC rating value"
 msgid "EPC Rating: %d"
 msgstr ""
 
-#: includes/blocks/class-geodir-widget-energy-rating.php:272
+#: includes/blocks/class-geodir-widget-energy-rating.php:306
 #, php-format
 msgid "HERS Rating: %s"
 msgstr ""
 
-#: includes/blocks/class-geodir-widget-energy-rating.php:345
+#: includes/blocks/class-geodir-widget-energy-rating.php:379
 #, php-format
 msgctxt "DPE rating value"
 msgid "Energy Consumption: %d kWh/m²/year"
 msgstr ""
 
-#: includes/blocks/class-geodir-widget-energy-rating.php:379
+#: includes/blocks/class-geodir-widget-energy-rating.php:413
 #, php-format
 msgctxt "DPE rating value"
 msgid "CO2 Emissions: %d kg CO2/m²·year"

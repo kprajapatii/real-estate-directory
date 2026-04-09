@@ -248,7 +248,7 @@ final class Real_Estate_Directory {
 	 */
 	public static function geodirectory_notice() {
 		if ( ! class_exists( 'GeoDirectory' ) ) {
-			echo '<div class="error"><p>' .  esc_attr__( 'GeoDirectory plugin is required for the Real Estate Directory plugin to work properly.', 'real-estate-directory' ) . '</p></div>';
+			echo '<div class="error"><p>' .  esc_html__( 'GeoDirectory plugin is required for the Real Estate Directory plugin to work properly.', 'real-estate-directory' ) . '</p></div>';
 		}
 	}
 
@@ -261,7 +261,7 @@ final class Real_Estate_Directory {
 	 * @return void
 	 */
 	public static function php_version_notice() {
-		echo '<div class="error"><p>' . __( 'Your version of PHP is below the minimum version of PHP required by Real Estate Directory plugin . Please contact your host and request that your version be upgraded to 7.0 or later.', 'real-estate-directory' ) . '</p></div>';
+		echo '<div class="error"><p>' . esc_html__( 'Your version of PHP is below the minimum version of PHP required by Real Estate Directory plugin . Please contact your host and request that your version be upgraded to 7.0 or later.', 'real-estate-directory' ) . '</p></div>';
 	}
 
 	/**

@@ -5,7 +5,7 @@ Tags: geodirectory, property, real estate, rental, for sale
 Requires at least: 6.0
 Tested up to: 7.1
 Requires PHP: 7.2
-Stable tag: 2.0.11
+Stable tag: 2.0.12
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -26,6 +26,9 @@ Please refer to the matterport.com [Term of Use](https://matterport.com/terms-of
 == Requirements ==
 * GeoDirectory 2.3 or higher - [GeoDirectory](https://wordpress.org/plugins/geodirectory/)
 
+== Security ==
+To report a security vulnerability, please review our [vulnerability disclosure policy](https://ayecode.io/vulnerability-disclosure-policy/).
+
 == Installation ==
 
 **Automatic installation**
@@ -45,6 +48,9 @@ The manual installation method involves:
 Automatic updates should work seamlessly. To avoid unforeseen problems, we always suggest backing up your website before performing any automated update.
 
 == Changelog =
+
+= 2.0.12 - 2026-09-02 =
+* Vulnerability Disclosure Policy (VDP) changes in the readme file - ADDED
 
 = 2.0.11 - 2026-04-09 =
 * WordPress 7.0 compatibility check - COMPATIBILITY
